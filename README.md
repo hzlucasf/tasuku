@@ -2,6 +2,12 @@
 
 A API **Tasuku** permite o gerenciamento de tarefas. Com ela, você pode criar, atualizar, listar e excluir tarefas, além de acompanhar o status e a prioridade de cada uma.
 
+## Tecnologias
+
+- Java
+- Spring Boot
+- PostgreSQL
+
 ## Endpoints
 
 A API possui dois endpoints disponíveis:
